@@ -17,6 +17,7 @@ Blog website App
 2. run "npm i"
 3. run "npm init"
 4. run "node app.js"
+5. In your browser go to "localhost:3000/"
 
 # Screenshot
 
