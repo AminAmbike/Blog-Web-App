@@ -9,7 +9,6 @@ Blog website App
 - CSS
 
 **Back-End**
-- MongoDB (mongoose)
 - Node.js
 
 # Instructions
