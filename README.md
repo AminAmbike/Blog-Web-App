@@ -4,7 +4,7 @@ Blog website App
 
 **Next Steps**
 
-improve backend with mongodDB
+improve backend with MongoDB
 
 # Languages and Technologies:
 **Front-End**
